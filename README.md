@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @undefined93
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on coding excercises
+- 📫 How to reach me @undefined93
